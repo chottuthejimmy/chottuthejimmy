@@ -8,15 +8,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1143/PNG/512/twitterlogooutline_80724.png" style="padding-right:10px;" />](https://twitter.com/chottuthejimmy#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/twitter-light.svg" style="padding-right:10px;" />](https://twitter.com/chottuthejimmy#gh-light-mode-only)
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/chottuthejimmy#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/linkedin-light.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-dark-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-dark-mode-only)
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-light.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-light-mode-only)
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-dark.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-dark-mode-only)
+
 
 
 ### Languages and Tools:
