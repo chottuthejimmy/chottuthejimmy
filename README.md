@@ -12,9 +12,7 @@
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/twitter-dark.svg" style="padding-right:10px;" />](https://twitter.com/chottuthejimmy#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/linkedin-light.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-light-mode-only)
-<a href="https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-dark-mode-only" target="_blank">
-  <img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/linkedin-dark.svg" style="padding-right:10px;" />
-</a>
+[<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/linkedin-dark.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-light.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-light-mode-only)
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-dark.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-dark-mode-only)
@@ -31,12 +29,11 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />][webdevplaylist2]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />][webdevplaylist3]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][webdevplaylist4]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;" />][webdevplaylist5]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/chottuthejimmy)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com/chottuthejimmy)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/terminal-light.svg" />](https://www.linux.org/#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/terminal-dark.svg" />](https://www.linux.org/#gh-dark-mode-only)
 
 <br />
 <br />
@@ -97,7 +94,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://dart.dev
+[webdevplaylist]: https://code.visualstudio.com
 [webdevplaylist5]: https://en.wikipedia.org/wiki/C_(programming_language)
 [webdevplaylist4]: https://developer.android.com/studio
 [webdevplaylist3]:https://kotlinlang.org
