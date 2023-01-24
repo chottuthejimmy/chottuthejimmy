@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](https://cdn.icon-icons.com/icons2/1143/PNG/512/twitterlogooutline_80724.png)](https://twitter.com/chottuthejimmy#gh-light-mode-only)
+[![website][<img align="left" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1143/PNG/512/twitterlogooutline_80724.png" style="padding-right:10px;" />](https://twitter.com/chottuthejimmy#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/chottuthejimmy#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-light-mode-only)
