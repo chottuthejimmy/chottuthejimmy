@@ -2,13 +2,13 @@
 
 ## I'm a Student , Developer and a Seeker!!
 
-- 🌱 I’m currently trying to learning everything 😅
+- 🌱 I’m currently trying to learn everything 😅
 - 🥅 2023 Goals: Learn more about DevOps
 - ⚡ Fun fact: I love to play chess and sometimes I like to get stuck in a code
 
 ### Connect with me:
 
-<img align="left" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1143/PNG/512/twitterlogooutline_80724.png" style="padding-right:10px;" />(https://twitter.com/chottuthejimmy#gh-light-mode-only)
+[![website][<img align="left" alt="Twitter" width="26px" src="https://cdn.icon-icons.com/icons2/1143/PNG/512/twitterlogooutline_80724.png" style="padding-right:10px;" />]](https://twitter.com/chottuthejimmy#gh-light-mode-only)
 [![website][<img align="left" alt="Twitter" width="26px" src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2019/09/twitter-dark-mode.jpg" style="padding-right:10px;" />]](https://twitter.com/chottuthejimmy#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tarun-kumar-s-30b60b19a/#gh-light-mode-only)
