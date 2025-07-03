@@ -3,7 +3,6 @@
 ## I'm a Student , Developer and a Seeker!!
 
 - 🌱 I’m currently trying to learn everything 😅
-- 🥅 2024 Goals: Rig right up into Mechanistic Interpretability 
 - ⚡ Fun fact: I love to play chess and sometimes I like to get stuck in a code
 
 ### Connect with me:
