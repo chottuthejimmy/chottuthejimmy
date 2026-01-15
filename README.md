@@ -1,6 +1,6 @@
 # Hi there, I'm Tarun 👋 
 
-## I'm a Student , Developer and a Seeker!!
+## I'm a Student (for life!) , Developer and a Seeker!!
 
 - 🌱 I’m currently trying to learn everything 😅
 - ⚡ Fun fact: I love to play chess and sometimes I like to get stuck in a code
@@ -61,3 +61,4 @@
 [jsplaylist]: https://firebase.google.com
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]:https://flutter.dev
+
