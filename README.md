@@ -35,30 +35,3 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/terminal-dark.svg" />](https://www.linux.org/#gh-dark-mode-only)
 
 <br />
-<br />
-
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chottuthejimmy&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://code.visualstudio.com
-[webdevplaylist6]: https://dart.dev
-[webdevplaylist5]: https://en.wikipedia.org/wiki/C_(programming_language)
-[webdevplaylist4]: https://developer.android.com/studio
-[webdevplaylist3]:https://kotlinlang.org
-[webdevplaylist2]: https://www.java.com/en
-[webdevplaylist1]: https://git-scm.com
-[jsplaylist]: https://firebase.google.com
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]:https://flutter.dev
-
