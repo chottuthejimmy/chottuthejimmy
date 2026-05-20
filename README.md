@@ -15,23 +15,3 @@
 &nbsp;&nbsp;
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-light.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-light-mode-only)
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/instagram-dark.svg" style="padding-right:10px;" />](https://instagram.com/tarun_the_thor?igshid=ZmZhODViOGI=#gh-dark-mode-only)
-
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original.svg" style="padding-right:10px;" />][webdevplaylist6]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist1]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" style="padding-right:10px;" />][webdevplaylist2]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />][webdevplaylist3]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />][webdevplaylist4]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" style="padding-right:10px;" />][webdevplaylist5]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/github-light.svg" style="padding-right:10px;" />](https://github.com/chottuthejimmy/#gh-light-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/github-dark.svg" style="padding-right:10px;" />](https://github.com/chottuthejimmy/#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/terminal-light.svg" />](https://www.linux.org/#gh-light-mode-only/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/03518f3fa3bd8bc0f61e3557bc5912053cb399cf/img/terminal-dark.svg" />](https://www.linux.org/#gh-dark-mode-only)
-
-<br />
